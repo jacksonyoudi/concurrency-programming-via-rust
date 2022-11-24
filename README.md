@@ -1,1 +1,1 @@
-# -concurrency-programming-via-rust
+# concurrency-programming-via-rust
